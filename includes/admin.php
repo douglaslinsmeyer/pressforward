@@ -178,7 +178,7 @@ class PF_Admin {
 				?>
 						<button type="submit" class="btn btn-warning pull-right" id="archivebefore" value="<?php  _e('Archive before', 'pf');  ?>:" ><?php  _e('Archive before', 'pf');  ?>:</button>
 						<select class="pull-right" id="archiveBeforeOption">
-							<option value="1week">Older then 1 week</option>
+							<option value="1week">Older than 1 week</option>
 							<option value="2weeks">Older than 2 weeks</option>
 							<option value="1month">Older than 1 month</option>
 							<option value="1year">Before this year</option>
